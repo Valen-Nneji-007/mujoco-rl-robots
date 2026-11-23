@@ -5,8 +5,8 @@ Teaching simulated robots to balance, hop, walk, trot and dance with reinforceme
 Everything uses [MuJoCo](https://mujoco.org/) for physics, [Gymnasium](https://gymnasium.farama.org/) for the environments and [Stable-Baselines3](https://stable-baselines3.readthedocs.io/) (PPO) for training.
 
 <p align="center">
-  <img src="docs/go2_trot.gif" width="420" alt="Unitree Go2 trotting in MuJoCo">
-  <img src="docs/go2_dance.gif" width="420" alt="Unitree Go2 doing a lean, bow and sit-back dance">
+  <img src="go2_trot.gif" width="420" alt="Unitree Go2 trotting in MuJoCo">
+  <img src="go2_dance.gif" width="420" alt="Unitree Go2 doing a lean, bow and sit-back dance">
 </p>
 <p align="center"><em>Left: trained Go2 trot. Right: four-move dance routine (shown at 2× speed).</em></p>
 
