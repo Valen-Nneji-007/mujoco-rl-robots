@@ -1,4 +1,4 @@
-# Reinforcement Learning for Robots with MuJoCo
+# Reinforcement Learning for Quadruped Robot with MuJoCo
 
 Teaching simulated robots to balance, hop, walk, trot and dance with reinforcement learning, from a single pendulum up to a **Unitree Go2** quadruped, all trained on a home laptop (GTX 1050, 8-core CPU).
 
