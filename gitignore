@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+mujoco_env/
+venv/
+.venv/
+
+# Trained models (remove this line if you want to upload them)
+*.zip
+
+# Training logs and recordings
+logs/
+tensorboard/
+*.mp4
+
+# Editor / OS
+.vscode/
+.DS_Store
+Thumbs.db

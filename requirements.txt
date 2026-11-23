@@ -1,0 +1,5 @@
+mujoco>=3.0
+gymnasium[mujoco]>=1.0
+stable-baselines3>=2.3
+imageio
+numpy
